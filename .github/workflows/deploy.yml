@@ -19,6 +19,7 @@ jobs:
       uses: peaceiris/actions-hugo@v2
       with:
         hugo-version: 'latest'
+        extended: true  # Use the extended version for SCSS/SASS support
 
     - name: Build
       run: hugo --minify
@@ -27,4 +28,4 @@ jobs:
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./public
+        publish_dir: ./public  # Ensure this is the correct path
