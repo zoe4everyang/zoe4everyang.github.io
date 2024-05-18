@@ -1,0 +1,43 @@
+baseURL = "https://zoe4everyang.github.io/"
+languageCode = "en-us"
+title = "Your Site Title"
+theme = "anatole"
+defaultContentLanguage = "en"
+paginate = 10
+enableRobotsTXT = true
+
+[params]
+  # Site-specific parameters
+  author = "zoe4everyang"
+  description = "A description of your site"
+  github = "https://github.com/zoe4everyang/zoe4everyang.github.io"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[permalinks]
+  post = "/:year/:month/:day/:slug/"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 2
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    weight = 1
+  [languages.es]
+    languageName = "Español"
+    weight = 2
