@@ -46,3 +46,16 @@ localizedDates = false
 [[related.indices]]
   name = 'tags'
   weight = 80
+  
+[module]
+  # uncomment line below for temporary local development of module
+  # replacements = "github.com/lxndrblz/anatole -> ../../anatole"
+  [[module.imports]]
+    path = "github.com/lxndrblz/anatole"
+    disable = false
+
+[params]
+title = "I'm Zoe Yang"
+author = "Zoe Yang"
+description = "Call me Zoe"
+profilePicture = "images/profile.jpg"
