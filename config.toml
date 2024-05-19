@@ -46,7 +46,7 @@ localizedDates = false
 [[related.indices]]
   name = 'tags'
   weight = 80
-  
+
 [module]
   # uncomment line below for temporary local development of module
   # replacements = "github.com/lxndrblz/anatole -> ../../anatole"
@@ -59,3 +59,55 @@ title = "I'm Zoe Yang"
 author = "Zoe Yang"
 description = "Call me Zoe"
 profilePicture = "images/profile.jpg"
+
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/ziyi-zoe-yang-0a68bb172/"
+[[params.socialIcons]]
+icon = "fab fa-github"
+title = "Github"
+url = "https://github.com/zoe4everyang"
+[[params.socialIcons]]
+icon = "fas fa-envelope"
+title = "e-mail"
+url = "mailto:344769005@qq.com"
+
+[menu]
+
+  [[menu.main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[menu.main]]
+  name = "Posts"
+  weight = 200
+  identifier = "posts"
+  url = "/post/"
+
+  [[menu.main]]
+  name = "About"
+  weight = 300
+  identifier = "about"
+  url = "/about/"
+
+  [[main]]
+  name = "Accomplishments"
+  weight = 500
+  identifier = "accomplishments"
+
+  [[main]]
+  name = "Awards"
+  weight = 510
+  identifier = "awards"
+  url = "/awards/"
+  parent = "accomplishments"
+
+  [[main]]
+  name = "Certifications"
+  weight = 520
+  identifier = "certifications"
+  url = "/certifications/"
+  parent = "accomplishments"
