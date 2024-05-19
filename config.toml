@@ -1,5 +1,4 @@
 baseURL = "https://zoe4everyang.github.io/"
-baseURL = "https://example.com"
 languageCode = "en"
 DefaultContentLanguage = "en"
 title = "Website of Jane Doe"
