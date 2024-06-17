@@ -1,7 +1,7 @@
 baseURL = "https://zoe4everyang.github.io/"
 languageCode = "en"
 DefaultContentLanguage = "en"
-title = "Website of Jane Doe"
+title = "Website of Zoe Yang"
 
 # theme as hugo module
 #theme = "github.com/lxndrblz/anatole"
@@ -82,32 +82,7 @@ url = "mailto:344769005@qq.com"
   url = "/"
 
   [[menu.main]]
-  name = "Posts"
-  weight = 200
-  identifier = "posts"
-  url = "/post/"
-
-  [[menu.main]]
   name = "About"
   weight = 300
   identifier = "about"
   url = "/about/"
-
-  [[main]]
-  name = "Accomplishments"
-  weight = 500
-  identifier = "accomplishments"
-
-  [[main]]
-  name = "Awards"
-  weight = 510
-  identifier = "awards"
-  url = "/awards/"
-  parent = "accomplishments"
-
-  [[main]]
-  name = "Certifications"
-  weight = 520
-  identifier = "certifications"
-  url = "/certifications/"
-  parent = "accomplishments"
