@@ -5,12 +5,12 @@ portfolioitems:
     portfolioitem:
       - name: RAID Driver Development Using BUSE
         image: '/images/portfolio/RAID.jpg'
-        link: 'https://github.com/zoe4everyang?tab=repositories'
+        link: https://github.com/zoe4everyang?tab=repositories
         linktext: 'See project'
-        description: """
+        description: '
         - Developed RAID 0, 1, 4 drivers utilizing BUSE, an open-source library enabling direct data writing to block devices from user space.
         - Implemented core RAID functionalities including striping, mirroring, parity, and operating in degraded mode.
-        - Performed extensive performance analysis with an IOPS benchmarking tool to evaluate both sequential and random data handling capabilities of the RAID drivers, optimizing for efficiency and reliability."""
+        - Performed extensive performance analysis with an IOPS benchmarking tool to evaluate both sequential and random data handling capabilities of the RAID drivers, optimizing for efficiency and reliability.'
         tags:
           - Storage
         status: 'Completed'
@@ -20,12 +20,12 @@ portfolioitems:
           - Zoe Yang
       - name: Mini Amazon
         image: '/images/portfolio/mini-amazon.png'
-        link: 'https://github.com/zoe4everyang/Mini-amazon'
+        link: https://github.com/zoe4everyang/Mini-amazon
         linktext: 'See project'
-        description: """
+        description: '
         - Developed a full-stack, database-driven e-commerce website using Flask and PostgreSQL, winning the faculty-choice award.
         - Designed the database schema, enabling products browsing, purchasing, reviewing, account settings and inventory management.
-        - Enhanced user experience by implementing robust search and filtering functionalities, including category browsing, keyword search, and sorting by price and rating."""
+        - Enhanced user experience by implementing robust search and filtering functionalities, including category browsing, keyword search, and sorting by price and rating.'
         status: 'Completed'
         start: '2024.2'
         end: '2024.5'
@@ -37,15 +37,14 @@ portfolioitems:
           - Teamwork
       - name: RISK Game
         image: '/images/portfolio/risk.jpeg'
-        link: 'https://github.com/zoe4everyang/risc_game'
+        link: https://github.com/zoe4everyang/risc_game
         status: 'Completed'
         start: '2023.3'
         end: '2023.5'
-        description: """
+        description: '
         - Developed a multiplayer real-time strategy game RISK in Java and used SpringBoot framework to implement features like login, player matching and reconnect. Achieved 90% test coverage using Junit.
         - Employed multithreading to optimize performance and enhance gameplay experience.
-        - Adhered to S.O.L.I.D principles, used a front-end/back-end separation architecture, and applied the Abstraction Factory Design Pattern. Finalized project design with UML diagrams and maintained updated documentation to ensure team productivity.
-        """        
+        - Adhered to S.O.L.I.D principles, used a front-end/back-end separation architecture, and applied the Abstraction Factory Design Pattern. Finalized project design with UML diagrams and maintained updated documentation to ensure team productivity.'       
         tags:
           - Java
           - SpringBoot
