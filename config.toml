@@ -47,12 +47,6 @@ localizedDates = false
   name = 'tags'
   weight = 80
 
-[module]
-  # uncomment line below for temporary local development of module
-  # replacements = "github.com/lxndrblz/anatole -> ../../anatole"
-  [[module.imports]]
-    path = "github.com/lxndrblz/anatole"
-    disable = false
 
 [params]
 title = "I'm Zoe Yang"
@@ -94,10 +88,10 @@ url = "mailto:344769005@qq.com"
   url = "/workexp/"
 
   [[menu.main]]
-  name = "porfolios"
+  name = "porfolio"
   weight = 300
-  identifier = "porfolios"
-  url = "/porfolios/"
+  identifier = "porfolio"
+  url = "/portfolio/"
 
   [[menu.main]]
   name = "hobbies"
@@ -111,3 +105,9 @@ url = "mailto:344769005@qq.com"
   identifier = "cv"
   url = "/cv/"
 
+[module]
+  # uncomment line below for temporary local development of module
+  # replacements = "github.com/lxndrblz/anatole -> ../../anatole"
+  [[module.imports]]
+    path = "github.com/lxndrblz/anatole"
+    disable = false

@@ -1,7 +1,7 @@
 ---
-author: Hugo Authors
+author: Zoe Yang
 title: Contact
-date: 2019-03-08
+date: 2024-06-18
 description: Contact Page
 contact: true
 ---
