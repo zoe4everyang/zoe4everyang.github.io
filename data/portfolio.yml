@@ -5,7 +5,7 @@ portfolioitems:
     portfolioitem:
       - name: RAID Driver Development Using BUSE
         image: '/images/portfolio/RAID.jpg'
-        link: https://github.com/zoe4everyang?tab=repositories
+        link: 'https://github.com/zoe4everyang?tab=repositories'
         linktext: 'See project'
         description: """
         - Developed RAID 0, 1, 4 drivers utilizing BUSE, an open-source library enabling direct data writing to block devices from user space.
@@ -20,7 +20,7 @@ portfolioitems:
           - Zoe Yang
       - name: Mini Amazon
         image: '/images/portfolio/mini-amazon.png'
-        link: https://github.com/zoe4everyang/Mini-amazon
+        link: 'https://github.com/zoe4everyang/Mini-amazon'
         linktext: 'See project'
         description: """
         - Developed a full-stack, database-driven e-commerce website using Flask and PostgreSQL, winning the faculty-choice award.
@@ -37,7 +37,7 @@ portfolioitems:
           - Teamwork
       - name: RISK Game
         image: '/images/portfolio/risk.jpeg'
-        link: https://github.com/zoe4everyang/risc_game
+        link: 'https://github.com/zoe4everyang/risc_game'
         status: 'Completed'
         start: '2023.3'
         end: '2023.5'
