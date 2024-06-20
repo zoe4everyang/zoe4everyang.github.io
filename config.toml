@@ -53,6 +53,9 @@ title = "I'm Zoe Yang"
 author = "Zoe Yang"
 description = "Call me Zoe"
 profilePicture = "images/profile.jpg"
+doNotLoadAnimations = true # Animations are loaded by default
+contentratio = 0.6
+# hidesidebar = true
 
 [[params.socialIcons]]
 icon = "fab fa-linkedin"
@@ -67,6 +70,7 @@ icon = "fas fa-envelope"
 title = "e-mail"
 url = "mailto:344769005@qq.com"
 
+
 [menu]
 
   [[menu.main]]
@@ -77,7 +81,7 @@ url = "mailto:344769005@qq.com"
 
   [[menu.main]]
   name = "About"
-  weight = 300
+  weight = 200
   identifier = "about"
   url = "/about/"
 
@@ -89,25 +93,25 @@ url = "mailto:344769005@qq.com"
 
   [[menu.main]]
   name = "portfolio"
-  weight = 300
+  weight = 400
   identifier = "portfolio"
   url = "/portfolio/"
 
   [[menu.main]]
-  name = "hobbies"
-  weight = 300
-  identifier = "hobbies"
-  url = "/hobbies/"
+  name = "gallery"
+  weight = 500
+  identifier = "gallery"
+  url = "/gallery/"
 
   [[menu.main]]
   name = "CV"
-  weight = 300
+  weight = 600
   identifier = "cv"
   url = "/cv/"
 
   [[menu.main]]
   name = "contact"
-  weight = 300
+  weight = 700
   identifier = "contact"
   url = "/contact/"
 

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcomepage on Website of Zoe Yang</title>
+    <link>http://localhost:1313/tags/welcomepage/</link>
+    <description>Recent content in Welcomepage on Website of Zoe Yang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 18 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/welcomepage/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to my website</title>
+      <link>http://localhost:1313/post/welcome/</link>
+      <pubDate>Sat, 18 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/welcome/</guid>
+      
+        <description>Zoe&#39;s words to the world</description>
+      
+    </item>
+    
+  </channel>
+</rss>
