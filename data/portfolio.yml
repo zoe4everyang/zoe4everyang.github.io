@@ -14,6 +14,8 @@ portfolioitems:
         
         - Performed extensive performance analysis with an IOPS benchmarking tool to evaluate both sequential and random data handling capabilities of the RAID drivers, optimizing for efficiency and reliability.'
         tags:
+          - RAID
+          - IOPS
           - Storage
         status: 'Completed'
         start: '2024.3'
@@ -56,6 +58,22 @@ portfolioitems:
           - Java
           - SpringBoot
           - Junit
+      - name: Dynamic Memory Allocation Tool
+        image: '/images/portfolio/malloc.jpeg'
+        link: https://github.com/zoe4everyang/
+        linktext: 'See project'
+        status: 'Completed'
+        start: '2023.2'
+        end: '2023.3'
+        description: '
+        - Implemented malloc and free functions in C, employing an explicit free list for enhanced memory management.
+  
+        - Ensured thread safety through the utilization of pthread mutex locks.
+        
+        - Conducted performance benchmarking for various allocation approaches, including best-fit and first-fit strategies.'       
+        tags:
+          - C
+          - thread safety
 
   # portfolio category
   - title: Research
