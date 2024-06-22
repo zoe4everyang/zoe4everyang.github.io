@@ -1,17 +1,21 @@
 +++
-title = "About"
-description = "Hugo, the world's fastest framework for building websites"
+title = "About me"
+description = "Self introduction of Zoe"
 date = "2019-02-28"
 aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+author = "Zoe Yang"
 +++
 
 
+🌟 Hey there! Nice meeting you. I'm Zoe Yang (杨子诣 - Yang Ziyi).
 
-My Name is Zoe Yang. My chinese name is 杨子诣 (Yang Ziyi). 
+🎓 I graduated with a Master's in Electrical and Computer Engineering from Duke University in May 2024. I completed my undergraduate studies with a Science honors degree in Computer Science major and Math minor at Purdue University in 2020.
 
-I graduated from Duke University in May 2024 with a master’s degree majoring in Electrical and Computer Engineering. I obtained my undergraduate degree in Computer Science with a minor in math from Purdue University in 2020. I was selected to be a science honors school student at college and was on the Dean’s List every school year. 
+👩‍💻 Professionally, I've taken roles that stretch and challenge me—from a software engineering internship at Los Angeles Capital Management to being a full-time software engineer and scrum master on the Cisco Webex-Infrastructure team.
 
-I took a semester off in 2019 to do a software engineer internship at Los Angeles Capital Management. Prior to pursuing my graduate studies, I worked at Cisco as a scrum master and software developer in Webex-China Infrastructure team.
 
-I’m excited to see where my next journey will take me to ...
+🛠️ I have a deep-rooted passion for engineering — I love the process of building things, from assembling IKEA furniture to setting up Raspberry Pi IoT projects, or developing complex systems and software. This hands-on approach gives me a profound sense of accomplishment.
+
+🎨 Away from the keyboard, I’m probably out chasing sunsets with my camera, vlogging my latest escapade, or doodling on my tablet. (Check out some of my artworks in the 'Gallery' tab!) 🎹 I also enjoy melodies, where playing the piano offers me a delightful escape from the world and a way to unwind from stress. 
+
+🚀 I’m excited to see where my next adventure will take me ...

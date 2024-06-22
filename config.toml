@@ -88,7 +88,7 @@ url = "mailto:344769005@qq.com"
   [[menu.main]]
   name = "Work Experiences"
   weight = 300
-  identifier = "work experiences"
+  identifier = "workexp"
   url = "/workexp/"
 
   [[menu.main]]
@@ -107,7 +107,7 @@ url = "mailto:344769005@qq.com"
   name = "CV"
   weight = 600
   identifier = "cv"
-  url = "/cv/"
+  url = "/files/resume.pdf"
 
   [[menu.main]]
   name = "contact"
